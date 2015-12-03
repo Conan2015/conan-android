@@ -16,7 +16,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".MyLocationActivity" />
-        <activity android:name=".SampleActivity"></activity>
     </application>
 
 </manifest>
